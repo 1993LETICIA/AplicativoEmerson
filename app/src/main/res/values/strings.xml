@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Outras strings do aplicativo -->
+
+    <string name="log_error_message" translatable="false">Credenciais inválidas. Por favor, tente novamente.</string>
+    <string name="app_name">Notícias Dorama</string>
+</resources>
